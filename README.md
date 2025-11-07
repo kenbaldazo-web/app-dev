@@ -1,2 +1,3 @@
-# app-dev
-My first repository
+- One piece
+- Chainsaw man
+- Let This Grieving Soul Retire
